@@ -1,0 +1,1 @@
+tar -cvf apache.tar public-html custom-proxy-rules.conf httpd.conf Dockerfile Dockerrun.aws.json
